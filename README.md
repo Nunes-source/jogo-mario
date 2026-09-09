@@ -1,4 +1,4 @@
-# jogo-mario
+# jogoMario
 
 
 ## Integrantes
